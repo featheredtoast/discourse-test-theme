@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "about_url": "https://github.com/featheredtoast/discourse-test-theme",
+  "license_url": "https://github.com/featheredtoast/discourse-test-theme/blob/master/LICENSE.txt",
+  "color_schemes": {
+    "test": {
+      "primary": "222222",
+      "secondary": "ffffff",
+      "tertiary": "0088cc",
+      "quaternary": "e45735",
+      "header_background": "ff33cc",
+      "header_primary": "333333",
+      "highlight": "ffff4d",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "fa6c8d"
+    }
+  }
+}
